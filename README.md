@@ -5,14 +5,6 @@ O usuário pode navegar entre as categorias do cardápio.
 
 ---
 
-🖼️ Exemplo visual
-
-<div align="center">
-  <img src="/demo/demo.gif" alt="Demo" width="700">
-</div>
-
----
-
 💡 Funcionalidades
 
 - Lista de itens do cardápio com preço e descrição

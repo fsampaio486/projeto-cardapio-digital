@@ -5,6 +5,12 @@ O usuário pode navegar entre as categorias do cardápio.
 
 ---
 
+🚨 Tela do Projeto
+
+https://projeto-cardapio-digital-dusky.vercel.app/
+
+---
+
 💡 Funcionalidades
 
 - Lista de itens do cardápio com preço e descrição
@@ -14,10 +20,10 @@ O usuário pode navegar entre as categorias do cardápio.
 
 🚀 Tecnologias usadas
 
- - React
- - Vite
- - CSS
- - JavaScript
+- React
+- Vite
+- CSS
+- JavaScript
 
 ---
 

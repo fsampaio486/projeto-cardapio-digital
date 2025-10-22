@@ -8,7 +8,7 @@ O usuário pode navegar entre as categorias do cardápio.
 🖼️ Exemplo visual
 
 <div align="center">
-  <img src="/demo.gif" alt="Demo" width="700">
+  <img src="/demo/demo.gif" alt="Demo" width="700">
 </div>
 
 ---

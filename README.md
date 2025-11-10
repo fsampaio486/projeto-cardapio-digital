@@ -20,9 +20,11 @@ https://projeto-cardapio-digital-dusky.vercel.app/
 
 🚀 Tecnologias usadas
 
-- React
+
+- HTML
 - CSS
 - JavaScript
+- React
 
 ---
 
